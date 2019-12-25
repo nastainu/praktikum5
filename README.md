@@ -80,7 +80,6 @@ Untuk **nilai akhir** (`n_akhir`) , di buat berdasarkan operasi dari variabel `n
 **Output :**
 
 
-![Output](https://github.com/antonmartinus72/Praktikum_5/blob/master/img/2.JPG)
 
 
 ### 2. Menampilkan Input Data
@@ -100,7 +99,7 @@ Data dalam perulangan `for` di ambil dari variabel dictionary `daftar` pada bagi
 **Output :**
 
 
-![Output](https://github.com/antonmartinus72/Praktikum_5/blob/master/img/3.JPG)
+
 
 
 ### 3. Mengubah Data
@@ -127,7 +126,6 @@ Berikut kondisi yang digunakan untuk memasukan pilihan :
 **Output :**
 
 
-![Output](https://github.com/antonmartinus72/Praktikum_5/blob/master/img/4.JPG)
 
 
 ### 4. Mencari Data
@@ -169,8 +167,8 @@ Source code bisa dilihat di <a href="https://github.com/antonmartinus72/Praktiku
 <br>
 <br>
 <p align=center>
-Anton Martinus A.A.Y
+
 <br>
-TI.19.A.1
+
 <br>
 </p>
