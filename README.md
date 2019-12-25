@@ -173,5 +173,4 @@ Anton Martinus A.A.Y
 <br>
 TI.19.A.1
 <br>
-<a href="https://github.com/antonmartinus72/Praktikum_5">https://github.com/antonmartinus72/Praktikum_5</a>
 </p>
